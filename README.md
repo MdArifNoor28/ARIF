@@ -20,13 +20,6 @@ Tools & Platforms: Git/GitHub, VS Code, LaTeX
 
 Soft Skills: Multimedia Communication, Leadership, Analytical Thinking
 
-🏆 Achievements
-Dean’s List: Awarded for academic excellence across three semesters.
-
-Yayasan Pahang Excellence Award (2022): Recognized for outstanding STPM results.
-
-Exco of Multimedia & Communication: Leading digital strategy for the PERDAMA association at USM.
-
 📊 GitHub Stats
 📫 Let's Connect!
 
