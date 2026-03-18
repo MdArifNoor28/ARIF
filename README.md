@@ -3,7 +3,7 @@
 💻 About Me
 I am a Business Analytics student at Universiti Sains Malaysia (USM) with a minor in Psychology. I bridge the gap between complex data insights and human behavior to drive better decision-making.
 
-I’m currently honing my skills in machine learning and data visualization, preparing for my upcoming internship in early 2027.
+I’m currently honing my skills in machine learning and data visualization.
 
 🔭 Current Focus: Developing end-to-end data analytics projects and mastering Python for ML.
 
